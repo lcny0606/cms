@@ -6,4 +6,6 @@
 
 ####导入 cms.sql 文件至 mysql ，更改control中 conn.php 文件的数据库配置即可。
 
+####管理员：admin  密码：123
+
 #### 谢谢浏览
