@@ -1,11 +1,11 @@
-# CMS 
+ï»¿# CMS 
 
 ##LI Yang's  phpcms  project 
 
-####ËãÊÇÒ»¸ö±È½Ï³õ¼¶µÄMVC½á¹¹£¬tplÖÐÊÇÄ£°åÎÄ¼þ£¬controlÖÐphpÊý¾Ý´¦ÀíÎÄ¼þ¡£
+####ç®—æ˜¯ä¸€ä¸ªæ¯”è¾ƒåˆçº§çš„MVCç»“æž„ï¼Œtplä¸­æ˜¯æ¨¡æ¿æ–‡ä»¶ï¼Œcontrolä¸­phpæ•°æ®å¤„ç†æ–‡ä»¶ã€‚
 
-####µ¼Èë cms.sql ÎÄ¼þÖÁ mysql £¬¸ü¸ÄcontrolÖÐ conn.php ÎÄ¼þµÄÊý¾Ý¿âÅäÖÃ¼´¿É¡£
+####å¯¼å…¥ cms.sql æ–‡ä»¶è‡³ mysql ï¼Œæ›´æ”¹controlä¸­ conn.php æ–‡ä»¶çš„æ•°æ®åº“é…ç½®å³å¯ã€‚
 
-####¹ÜÀíÔ±£ºadmin  ÃÜÂë£º123
+####ç®¡ç†å‘˜ï¼šadmin  å¯†ç ï¼š123
 
-#### Ð»Ð»ä¯ÀÀ
+#### è°¢è°¢æµè§ˆ
